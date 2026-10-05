@@ -16,7 +16,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href = "https://www.python.org/" target = "_blank"><img style = "margin: 10px" src = "https://web-creator.ru/technologies/python.png" alt = "Python" height = "50" /></a>
 <a href = "https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170" target = "_blank"><img style = "margin: 10px" src = "https://static.vecteezy.com/system/resources/previews/048/963/346/non_2x/c-plus-programming-3d-icon-free-png.png" alt = "c++" height = "50" /></a>
-<a href = "https://www.oracle.com/java/technologies/downloads/" target = "_blank"><img style = "margin: 10px" src = "https://blog.skillfactory.ru/wp-content/uploads/2023/02/image1-5-559x1024-1.png" alt = "Java" height = "50" /></a>
+<a href = "https://www.oracle.com/java/technologies/downloads/" target = "_blank"><img style = "margin: 10px" src = "https://avatars.dzeninfra.ru/get-zen_doc/4719986/pub_648b5c926d418274f99733c2_648b60d00df751368eaff89d/scale_1200" alt = "Java" height = "50" /></a>
 
 </div>
 
