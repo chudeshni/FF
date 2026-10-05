@@ -1,7 +1,7 @@
-### **<div align="center">Hi, I'm Maxim 👨‍💻 </div>**  
+### **<div align="center">Hi, I'm Amir 👨‍💻 </div>**  
   
 
-- ⚡️ I’m currently learning C++  
+- ⚡️ I’m currently learning C++ and Python  
   
 
 - ⚡️ Fun fact: I use tabs over spaces  
