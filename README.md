@@ -17,7 +17,7 @@
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href = "https://www.python.org/" target = "_blank"><img style = "margin: 10px" src = "https://web-creator.ru/technologies/python.png" alt = "Python" height = "50" /></a>
-<a href = "https://www.geeksforgeeks.org/cpp/cpp-basics/" target = "_blank"<img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=9da322b2b529b0a65489eaf3ffbc92de_l-8255800-images-thumbs&n=13" alt="C++" height="50"/></a> 
+<a href = "https://labex.io/cheatsheets/ru/cpp" target = "_blank"<img style="margin: 10px" src="https://avatars.mds.yandex.net/i?id=9da322b2b529b0a65489eaf3ffbc92de_l-8255800-images-thumbs&n=13" alt="C++" height="50"/></a> 
 </div>
 
 <div align="center">  
