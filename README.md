@@ -2,9 +2,8 @@
   
 
 - ⚡️ I’m currently learning C++ and Python  
-  
 
-- ⚡️ Fun fact: I use tabs over spaces  
+- ⚡️ Fun fact: I study at Plekhanov University in the field of applied informatics.
 
 
 ## My Skill Set  
@@ -17,6 +16,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href = "https://www.python.org/" target = "_blank"><img style = "margin: 10px" src = "https://web-creator.ru/technologies/python.png" alt = "Python" height = "50" /></a>
 </div>
 
 <div align="center">  
